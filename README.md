@@ -1,8 +1,11 @@
 # Hackerspeed
 H̶̯̗̏̚a̶̩̐͝c̷̡̣̀̒k̷̹͉̃͠e̵̥̜̍̂r̷͓͒s̵̩̙͊p̵̬͐e̷̙̲̎ę̶͆̄ͅd̸̙̟̈
 
-[screenshot](screenshot.png)
 
+<p align="center">
+  <img src="/logo.png" width="350"/>
+  <img src="/logo.png" width="350"/>
+</p>
 1. An server and client that with server > DNS > Ip > Client obfuscation 
 
 2. Bypassing any network filter by impersonating unecripted network traffic
